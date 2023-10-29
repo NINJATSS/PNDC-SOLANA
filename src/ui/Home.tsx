@@ -9,7 +9,7 @@ export function Home() {
     <div className={styles.banner}>
       <Section>
         <h2>
-          What is this?
+          PNDC SOLANA
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
           An open source, decentralized casino built on Gamba. Copy this platform with your own branding and start earning fees on every bet.
