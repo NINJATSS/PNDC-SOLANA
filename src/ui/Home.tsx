@@ -29,4 +29,4 @@ ENJOY AND DON'T GAMBLE WITH MORE THEN YOU CAN AFFORD TO LOSE
       </Section>
     </div>
   )
-)
+}
