@@ -12,7 +12,8 @@ export function Home() {
           PNDC SOLANA
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
-          An open source, decentralized casino built on Gamba. Copy this platform with your own branding and start earning fees on every bet.
+          Welcome to PNDC solana casino, 100% of the funds will be used to buy $PNDC and airdrop to holders. ( HOLDING A MIN OF 100B PNDC )
+ENJOY AND DON'T GAMBLE WITH MORE THEN YOU CAN AFFORD TO LOSE
         </p>
         <div style={{ display: 'flex', gap: '10px' }}>
           <Button
