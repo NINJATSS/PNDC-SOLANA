@@ -23,7 +23,7 @@ ENJOY AND DON'T GAMBLE WITH MORE THEN YOU CAN AFFORD TO LOSE
             target="_blank"
             icon={<Icon.ExternalLink />}
           >
-            Learn more 
+            
           </Button>
         </div>
       </Section>
