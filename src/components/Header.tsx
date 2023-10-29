@@ -17,7 +17,7 @@ export const Header: React.FC<React.PropsWithChildren> = ({ children }) => {
               Twitter
             </a>
             <a href="https://explorer.gamba.so" target="_blank" rel="noreferrer">
-              Stats
+              
             </a>
           </div>
           {children}
