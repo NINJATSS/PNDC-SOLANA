@@ -13,14 +13,8 @@ export const Header: React.FC<React.PropsWithChildren<any>> = ({ children }) => 
             <span className={styles.title}>PNDC</span>
           </NavButton>
           <div className={styles.iconContainer}>
-            <a href="https://discord.gg/QZKCPpMw3g" target="_blank" rel="noreferrer" className={styles.icon}>
-              <FaDiscord />
-            </a>
-            <a href="https://twitter.com/pepesolana_pepe" target="_blank" rel="noreferrer" className={styles.icon}>
+            <a href="https://twitter.com/Kingsol_69" target="_blank" rel="noreferrer" className={styles.icon}>
               <FaTwitter />
-            </a>
-            <a href="https://pepesolana.com/" target="_blank" rel="noreferrer" className={styles.icon}>
-              <FaGlobeAmericas />
             </a>
           </div>
         </div>
